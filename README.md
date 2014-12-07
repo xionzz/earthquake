@@ -1,4 +1,4 @@
 earthquake
 ==========
 
-Earthquake analysis 
+Earthquake analysis by R
